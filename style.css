@@ -1,11 +1,12 @@
-.search{
+.search {
     width: 120px;
     border-color: rgb(0, 188, 188);
     border-radius: 10px;
     background-color: whitesmoke;
-    color:rgb(0, 188, 188)
+    color: rgb(0, 188, 188)
 }
-.plus{
+
+.plus {
     color: white;
     background-color: rgb(0, 188, 188);
     border-radius: 10px;
@@ -13,7 +14,8 @@
     height: 40;
     width: 40;
 }
-.create_account{
+
+.create_account {
     width: 150px;
     height: 30px;
     border-color: black;
